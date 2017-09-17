@@ -10,6 +10,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Guess the list pattern #4](https://www.codewars.com/kata/guess-the-list-pattern-number-4)
 - [Guess the list pattern #5](https://www.codewars.com/kata/guess-the-list-pattern-number-5)
 - [Guess the list pattern #6](https://www.codewars.com/kata/guess-the-list-pattern-number-6)
+- [Guess the string pattern #1](https://www.codewars.com/kata/guess-the-string-pattern-number-1)
 
 
 
