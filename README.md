@@ -12,7 +12,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Guess the list pattern #6](https://www.codewars.com/kata/guess-the-list-pattern-number-6)
 - [Guess the string pattern #1 - Advanced](https://www.codewars.com/kata/guess-the-string-pattern-number-1-advanced)
 - [Guess the integer #1](https://www.codewars.com/kata/guess-the-integer-number-1)
-- [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1){:target="_blank"}
+- [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1)
 
 
 
