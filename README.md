@@ -16,6 +16,7 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 
 ## Others
 
+- [Looper](https://www.codewars.com/kata/looper)
 - [Reorder Array](https://www.codewars.com/kata/5a48134535aaec24930007e7)
 - [Reorder Array 2](https://www.codewars.com/kata/5a48fab7bdb9b5b3690009b6)
 
