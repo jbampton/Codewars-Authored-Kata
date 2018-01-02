@@ -14,6 +14,11 @@ Below is a list of all the Kata I have authored on Codewars, grouped by the Coll
 - [Guess the integer #1](https://www.codewars.com/kata/guess-the-integer-number-1)
 - [Guess the float #1](https://www.codewars.com/kata/guess-the-float-number-1)
 
+## Others
+
+- [Reorder Array](https://www.codewars.com/kata/5a48134535aaec24930007e7)
+- [Reorder Array 2](https://www.codewars.com/kata/5a48fab7bdb9b5b3690009b6)
+
 
 
 
